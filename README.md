@@ -33,7 +33,7 @@ npm install
 
 ```python
 #run the program
-node diff.js file1.txt file.txt 
+node diff.js file1.txt file2.txt 
 
 
 # The algorithm takes file1.txt and file2.txt to generate output.txt .
